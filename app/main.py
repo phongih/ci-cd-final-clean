@@ -1,8 +1,8 @@
-def add(a: int, b: int) -> int:
-    """Return sum of two numbers."""
-    return a + b
+def add(x: int, y: int) -> int:
+    """Simple add function."""
+    return x + y
 
 
-def subtract(a: int, b: int) -> int:
-    """Return difference of two numbers."""
-    return a - b
+def subtract(x: int, y: int) -> int:
+    """Simple subtract function."""
+    return x - y
